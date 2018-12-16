@@ -16,7 +16,7 @@ mem3 = Membership.new('best package', 39,lowgym)
 deji.add_membership(mem1)
 deji.add_membership(mem3)
 jimbob.add_membership(mem2)
-
+#test complete 
 
 
 
