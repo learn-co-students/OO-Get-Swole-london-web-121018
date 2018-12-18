@@ -1,0 +1,12 @@
+l1 = Lifter.new("mani", 50)
+l2 = Lifter.new("deji", 60)
+l3 = Lifter.new("anderson", 70)
+
+gym1 = Gym.new("Fitness First")
+gym2 = Gym.new("Virgin")
+gym3 = Gym.new("Nuffield Health")
+
+
+m1 = Membership.new(10, gym1, l2)
+m2 = Membership.new(20, gym1, l1)
+m3 = Membership.new(30, gym2, l1)
